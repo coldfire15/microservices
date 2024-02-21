@@ -1,5 +1,5 @@
 spring:
   application:
-    name: students #the name that'll be shown on the eureka interface
+    name: gateway
   config:
     import: optional:configserver:http://localhost:8888
